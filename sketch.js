@@ -37,7 +37,7 @@ function draw(){
         ampm = "PM"
     }
     textSize(35);
-    text("TIME " +  hour +" "+ ampm , 50,50);
+    text("TIME : " +  hour +" "+ ampm , 50,50);
 
 
 }
